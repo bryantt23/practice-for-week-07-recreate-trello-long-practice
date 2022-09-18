@@ -1,7 +1,7 @@
 /* Your code here */
 
 /* Supplied CSS follows. */
-.header-nav__group{
+.header-nav__group {
   display: flex;
 }
 
@@ -13,12 +13,12 @@
   text-decoration: none;
   align-items: center;
   text-align: center;
-  background-color: hsla(0,0%,100%,.3);
+  background-color: hsla(0, 0%, 100%, 0.3);
   box-shadow: none;
   color: #fff;
   line-height: 32px;
   margin: 0 4px 0 0;
-  transition: .1s ease;
+  transition: 0.1s ease;
   white-space: nowrap;
   padding: 8px;
   height: 20px;
@@ -48,6 +48,6 @@
   top: 5px;
 }
 
- .header-nav__button > i{
+.header-nav__button > i {
   width: 24px;
 }
