@@ -16,6 +16,21 @@ body {
   color: white;
 }
 
+#alerts {
+  background-color: #cf513d;
+}
+
+@media screen and (max-width: 730px) {
+  /* Hide the header search input field. */
+  #search {
+    visibility: hidden;
+  }
+  /* Hide the "Boards" text, but leave the boards icon. */
+  .boards-label {
+    visibility: hidden;
+  }
+}
+
 /* Supplied CSS follows. */
 .header-nav__group {
   display: flex;
