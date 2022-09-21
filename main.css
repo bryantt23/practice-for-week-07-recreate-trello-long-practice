@@ -195,3 +195,51 @@ title {
 .header-nav__button > i {
   width: 24px;
 }
+
+/* Added board images */
+/*source 
+https://github.com/youngcitrus/cohort-ta-resources/blob/ecfc042cf98203c6f51e4e19ced4434bc3ead8da/jspy-instructional-resources-master/W09/W09D3/recreate-trello-flexbox-project-solution/flexbox-project.css
+*/
+.boards__board {
+  background-size: 100% 100%;
+}
+
+.board-1 {
+  background-image: url('./board-backgrounds/board-1-background.jpg');
+}
+
+.board-2 {
+  background-image: url('./board-backgrounds/board-2-background.jpg');
+}
+
+.board-3 {
+  background-image: url('./board-backgrounds/board-3-background.jpg');
+}
+
+.board-4 {
+  background-image: url('./board-backgrounds/board-4-background.jpg');
+}
+
+.board-5 {
+  background-image: url('./board-backgrounds/board-5-background.jpg');
+}
+
+.board-6 {
+  background-image: url('./board-backgrounds/board-6-background.jpg');
+}
+
+.board-7 {
+  background-image: url('./board-backgrounds/board-7-background.jpg');
+}
+
+.board-8 {
+  background-image: url('./board-backgrounds/board-8-background.jpg');
+}
+
+.board-9 {
+  background-image: url('./board-backgrounds/board-9-background.jpg');
+}
+
+.board-10 {
+  background-image: url('./board-backgrounds/board-10-background.jpg');
+}
